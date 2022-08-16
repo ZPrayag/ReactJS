@@ -1,0 +1,19 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "React JS by Brad Traversy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZPrayag/ReactJS.git"
+  },
+  "author": "prayag.a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZPrayag/ReactJS/issues"
+  },
+  "homepage": "https://github.com/ZPrayag/ReactJS#readme"
+}
