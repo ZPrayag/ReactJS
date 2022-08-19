@@ -1,14 +1,11 @@
-import Header from './components/Header'
+import Header from "./components/Header";
 
-const App =()=>{
+const App = () => {
   return (
-    
     <div className="container">
-    <Header  />
-  
+      <Header />
     </div>
-    
   );
-}
+};
 
 export default App;
